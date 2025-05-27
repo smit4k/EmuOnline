@@ -1,5 +1,7 @@
 # READ THIS
-I'd recommend steering away from trying to host this yourselves, the documentation is a complete mess and it isn't worth your time going around configuring every individual file to make it run properly. I will completely overhaul this project later, making it easier to setup and making it more dynamic. The project as of right now is **really messy**
+I'd recommend steering away from trying to host this yourselves, the documentation is a complete mess and it isn't worth your time going around configuring every individual file to make it run properly. I will completely overhaul this project later, making it easier to setup and making it more dynamic. The project as of right now is **really messy**. 
+
+‼️ If you're someone who just wants to run games in a web emulator use it here: [https://demo.emulatorjs.org](https://demo.emulatorjs.org), this is the emulator that powers EmuOnline
 
 # About this project
 I made this project as an end of year project for my AP Computer Science A class. I will come back to this project to fix up some things, as well as add better documentation.
