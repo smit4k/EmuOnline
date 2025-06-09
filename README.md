@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Dont set this up by yourself right now. It's a waste of time and the codebase is a mess.
+
 # READ THIS
 I'd recommend steering away from trying to host this yourselves, the documentation is a complete mess and it isn't worth your time going around configuring every individual file to make it run properly. I will completely overhaul this project later, making it easier to setup and making it more dynamic. The project as of right now is **really messy**. 
 
