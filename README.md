@@ -19,6 +19,6 @@ I made this project as an end of year project for my AP Computer Science A class
 this is where the sidebar gets its elements from.
 to add a game to the sidebar, add a name and a file to games.json
 
-## About PRs
+## Contributing
+Feel free to contribute, open a PR with your changes and I'll approve it
 
-PRs are not welcomed, you're welcome to use the project though!
